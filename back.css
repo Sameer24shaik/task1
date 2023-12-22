@@ -1,0 +1,23 @@
+p{ 
+    
+    width: 50%;
+    height: 400px;
+    float: right
+}
+p1{ 
+    
+    width: 50%;
+    height: 400px;
+    float: left;
+    
+}
+body{ 
+    background-image: url("Itachi_Uchiha.jpg");
+    background-repeat: no-repeat ;
+    background-size:999px;
+    background-position: right;
+    background-color: chartreuse;
+    /* background-position right */
+    background-attachment: scroll;
+    
+}
